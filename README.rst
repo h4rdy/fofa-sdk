@@ -1,18 +1,19 @@
 FOFA SDK
-========================
+========
 
 The fofa SDK written in python3 makes it easy for developers to call fofa's API interface.
 
 Installation
 ------------
 
- ``pip install pyfofa``
+``pip install pyfofa``
  
- Only Python 3.6 is supported.
+Only Python 3.6 is supported.
  
- Example
- --------
+Example
+-------
 
+.. code-block:: pycon
     
     import pyfofa
     email = 'with.h4rdy@gmail.com'
