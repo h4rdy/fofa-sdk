@@ -12,8 +12,7 @@ Installation
  
  Example
  --------
- 
-.. code-block:: pycon
+
     
     import pyfofa
     email = 'with.h4rdy@gmail.com'
